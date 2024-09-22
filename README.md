@@ -13,7 +13,7 @@ Bu proje, K-Means kümeleme algoritmasını kullanarak müşteri segmentasyonu v
 
 ## Projenin Adımları
 
-![Müşteri Segmentasyonu Görseli](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmiuul.com%2Fblog%2Fml101-gozetimsiz-ogrenme&psig=AOvVaw0uHGlGA7QTB0vNE_iX8gWp&ust=1727065300963000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj-_-XZ1YgDFQAAAAAdAAAAABBO)
+![Projenin Adımları](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmiuul.com%2Fblog%2Fml101-gozetimsiz-ogrenme&psig=AOvVaw0uHGlGA7QTB0vNE_iX8gWp&ust=1727065300963000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj-_-XZ1YgDFQAAAAAdAAAAABBO)
 
 ## Giriş
 Müşteri segmentasyonu, pazarlama alanında kritik bir rol oynar. Doğru segmentasyon, müşteri ihtiyaçlarını anlamak ve buna göre stratejiler geliştirmek için gereklidir.
