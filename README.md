@@ -11,6 +11,10 @@ Bu proje, K-Means kümeleme algoritmasını kullanarak müşteri segmentasyonu v
 5. [Sonuçların Analizi](#sonuçların-analizi)
 6. [Sonuç ve Gelecek Çalışmalar](#sonuç-ve-gelecek-çalışmalar)
 
+## Projenin Adımları
+
+![Projenin Adımları Görseli!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmiuul.com%2Fblog%2Fml101-gozetimsiz-ogrenme&psig=AOvVaw0uHGlGA7QTB0vNE_iX8gWp&ust=1727065300963000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj-_-XZ1YgDFQAAAAAdAAAAABBO))
+
 ## Giriş
 Müşteri segmentasyonu, pazarlama alanında kritik bir rol oynar. Doğru segmentasyon, müşteri ihtiyaçlarını anlamak ve buna göre stratejiler geliştirmek için gereklidir.
 
@@ -52,10 +56,5 @@ Bu çalışma, müşteri segmentasyonunun önemini ve K-Means kümeleme algoritm
 
 ## Kapanış
 Bu çalışma, müşteri segmentasyonunu anlamak ve bu bilgiler doğrultusunda stratejik kararlar almak için önemli bir temel sunmaktadır. Gelecek analizlerde daha fazla özellik eklenerek veya farklı algoritmalar kullanılarak sonuçların derinlemesine incelenmesi önerilmektedir.
-
-## Müşteri Segmentasyonu Görseli
-
-![Müşteri Segmentasyonu Görseli](https://www.brandingturkiye.com/brtr_icerik/uploads/2018/09/e-ticarette-yuksek-cirolar-icin-musteri-segmentasyonu.jpg)
-
 
 Teşekkürler!
