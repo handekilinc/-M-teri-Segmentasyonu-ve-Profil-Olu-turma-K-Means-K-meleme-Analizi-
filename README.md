@@ -13,7 +13,7 @@ Bu proje, K-Means kümeleme algoritmasını kullanarak müşteri segmentasyonu v
 
 ## Projenin Adımları
 
-![Projenin Adımları] (https://miuul.com/image/article/62b332e9e16a8.png)
+![Projenin Adımları](https://miuul.com/image/article/62b332e9e16a8.png)
 
 ## Giriş
 Müşteri segmentasyonu, pazarlama alanında kritik bir rol oynar. Doğru segmentasyon, müşteri ihtiyaçlarını anlamak ve buna göre stratejiler geliştirmek için gereklidir.
