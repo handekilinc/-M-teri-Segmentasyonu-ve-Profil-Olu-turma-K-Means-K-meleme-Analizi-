@@ -55,8 +55,7 @@ Bu çalışma, müşteri segmentasyonunu anlamak ve bu bilgiler doğrultusunda s
 
 ## Müşteri Segmentasyonu Görseli
 
-![Müşteri Segmentasyonu Görseli](https://example.com/segmentasyon_grafigi.png)
+![Müşteri Segmentasyonu Görseli](https://www.brandingturkiye.com/brtr_icerik/uploads/2018/09/e-ticarette-yuksek-cirolar-icin-musteri-segmentasyonu.jpg)
 
-Bu görsel, farklı müşteri segmentlerini ve bunlara yönelik pazarlama stratejilerini göstermektedir.
 
 Teşekkürler!
