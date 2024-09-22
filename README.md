@@ -53,4 +53,10 @@ Bu çalışma, müşteri segmentasyonunun önemini ve K-Means kümeleme algoritm
 ## Kapanış
 Bu çalışma, müşteri segmentasyonunu anlamak ve bu bilgiler doğrultusunda stratejik kararlar almak için önemli bir temel sunmaktadır. Gelecek analizlerde daha fazla özellik eklenerek veya farklı algoritmalar kullanılarak sonuçların derinlemesine incelenmesi önerilmektedir.
 
+## Müşteri Segmentasyonu Görseli
+
+![Müşteri Segmentasyonu Görseli](https://example.com/segmentasyon_grafigi.png)
+
+Bu görsel, farklı müşteri segmentlerini ve bunlara yönelik pazarlama stratejilerini göstermektedir.
+
 Teşekkürler!
