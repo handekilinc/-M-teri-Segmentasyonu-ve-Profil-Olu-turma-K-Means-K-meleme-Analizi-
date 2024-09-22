@@ -1,4 +1,4 @@
-# -Müsteri-Segmentasyonu-ve-Profil-Olusturma-K-Means-Kumeleme-Analizi-
+# Müsteri Segmentasyonu ve Profil Olusturma K-Means Kumeleme Analizi
 Çalışma, müşteri segmentasyonu ve profil oluşturma amacıyla K-Means kümeleme analizini kullanarak, verileri belirli gruplara ayırmayı ve her bir segmentin özelliklerini derinlemesine incelemeyi hedefliyor. 
 Müşteri Segmentasyonu ve Profil Oluşturma: K-Means Kümeleme Analizi
 Proje Özeti
