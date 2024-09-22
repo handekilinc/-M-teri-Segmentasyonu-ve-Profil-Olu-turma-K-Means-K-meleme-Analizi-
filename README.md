@@ -81,3 +81,17 @@ Pazar Araştırması: Hangi segmentlerin hangi ürünlere daha fazla ilgi göste
 Hedef Kitle Belirleme: Pazarlama kampanyalarını daha etkili hale getirmek için doğru kitlelere ulaşmak.
 Ürün Geliştirme: Her bir segmentin ihtiyaçlarına yönelik yeni ürünler geliştirmek.
 Bu segmentasyon, işletmenizin stratejik kararlarını desteklemek ve müşteri memnuniyetini artırmak için büyük bir fırsat sunar.
+
+Sonuç ve Değerlendirme: Bu çalışma, müşteri verileri üzerinden yapılan K-means kümeleme analizi ile çeşitli müşteri segmentlerinin belirlenmesine odaklanmıştır. Elde edilen sonuçlar, farklı demografik özellikler ve gelir seviyelerine sahip müşteri gruplarının tanımlanmasına olanak sağlamıştır.
+
+Kümeleme Analizinin Özeti:
+
+Küme Özellikleri: Her küme, belirli bir gelir ve yaş dağılımına sahip olup, müşteri davranışlarını anlamak için önemli bilgiler sunmaktadır. Küme Büyüklükleri: Farklı segmentlerin büyüklükleri, hangi grupların daha yoğun olduğunu ve dolayısıyla pazarlama stratejilerinin nasıl şekilleneceğini göstermektedir. Görselleştirme: Yapılan görselleştirmeler, veri setindeki ilişkileri ve farklı müşteri gruplarını daha iyi anlamamıza yardımcı olmuştur. Hedef Kitle Stratejisi: Ekonomik Ürünler: Düşük gelirli genç segmentler için uygun fiyatlı ürünler ve kampanyalar oluşturulmalıdır. Lüks Ürünler: Yüksek gelirli ve genç kitle için premium ürünler ve özel etkinlikler planlanmalıdır. Aile Odaklı Ürünler: Orta yaş grubu için aile odaklı çözümler ve deneyim fırsatları sunulmalıdır. Sağlık ve Emeklilik Ürünleri: Yaşlı segment için sağlık hizmetleri ve emeklilik ürünleri önerilmelidir.
+
+Öneriler: Veri Güncellemeleri: Müşteri verilerinin düzenli olarak güncellenmesi, segmentlerin doğru bir şekilde değerlendirilmesi için kritik öneme sahiptir. Pazarlama Kampanyaları: Her segment için özelleştirilmiş pazarlama stratejileri geliştirilmelidir. Hedef Kitle Analizi: Kümeleme sonuçlarına dayalı olarak hedef kitle analizi yapılmalı ve kampanyalar bu analizlere göre şekillendirilmelidir.
+
+Kapanış:
+
+Bu çalışma, müşteri segmentasyonunu anlamak ve bu bilgiler doğrultusunda stratejik kararlar almak için önemli bir temel sunmaktadır. Gelecek analizlerde daha fazla özellik eklenerek veya farklı algoritmalar kullanılarak sonuçların derinlemesine incelenmesi önerilmektedir.
+
+Kümeleme analizi, işletmelerin müşteri ihtiyaçlarını daha iyi anlamalarına ve rekabet avantajı elde etmelerine yardımcı olacaktır. Teşekkürler!
